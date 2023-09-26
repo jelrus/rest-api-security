@@ -1,7 +1,11 @@
 admin user 
-login: admin
-password: admin
+    
+    login: admin
+    password: admin
+--------------------
 
 developer user
-login: developer
-password: developer
+
+    login: developer
+    password: developer
+--------------------
